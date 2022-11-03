@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site pack200="true">
+   <description>
+    IBM Monitoring and Diagnostic Tools - Health Center
+   </description>
+   <feature url="features/com.ibm.java.diagnostics.healthcenter.core.feature_0.0.0.jar" id="com.ibm.java.diagnostics.healthcenter.core.feature" version="0.0.0">
+    <category name="IBM Monitoring and Diagnostic Tools - Health Center"/>
+   </feature>
+   <feature url="features/com.ibm.java.diagnostics.healthcenter.gui.feature_0.0.0.jar" id="com.ibm.java.diagnostics.healthcenter.gui.feature" version="0.0.0">
+     <category name="IBM Monitoring and Diagnostic Tools - Health Center"/>
+   </feature>
+   <category-def name="IBM Monitoring and Diagnostic Tools - Health Center" label="IBM Monitoring and Diagnostic Tools - Health Center">
+      <description>
+        IBM Monitoring and Diagnostic Tools - Health Center
+      </description>
+   </category-def>
+</site>
